@@ -1,6 +1,4 @@
-# Quinielas-Bro-s-4
-Quinielas
-<!DOCTYPE html>
+
 <!-- saved from url=(0046)https://quinielajal.github.io/Registro-1/media -->
 <html lang="en" translate="no" class="hydrated"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <style data-styles="">ion-icon{visibility:hidden}.hydrated{visibility:inherit}</style>
