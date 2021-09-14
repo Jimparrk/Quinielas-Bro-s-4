@@ -1,7 +1,5 @@
 # Quinielas-Bro-s-4
 Quinielas
-<!DOCTYPE html>
-<!-- saved from url=(0041)https://quinielajal.github.io/Registro-1/ -->
 <html lang="en" translate="no" class="hydrated"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <style data-styles="">ion-icon{visibility:hidden}.hydrated{visibility:inherit}</style>
     <meta name="google" content="notranslate">
