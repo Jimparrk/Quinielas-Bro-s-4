@@ -1,21 +1,5 @@
 # Quinielas-Bro-s-4
 Quinielas
-<html lang="en" translate="no" class="hydrated"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <style data-styles="">ion-icon{visibility:hidden}.hydrated{visibility:inherit}</style>
-    <meta name="google" content="notranslate">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <meta name="description" content="¡Registra aquí tus quinielas! - Quiniela Liga MX">
-    <meta name="keywords" content="Quiniela, Liga MX, Apostar, Pronósticos, Eurocopa, Copa America">
-    <title>Quiniela Jalisco</title>
-    <link href="./Quiniela Jalisco_files/css2" rel="stylesheet">
-    <link rel="stylesheet" href="./Quiniela Jalisco_files/styles10.css">
-    <link rel="icon" href="https://quinielajal.github.io/Registro-1/icon.jpg">
-    <link rel="apple-touch-icon" href="https://quinielajal.github.io/Registro-1/icon.jpg">
-    <link rel="shortcut icon" href="https://quinielajal.github.io/Registro-1/icon.jpg" type="image/x-icon">
-    <script type="module" src="./Quiniela Jalisco_files/ionicons.esm.js.descarga"></script>
-    <script nomodule="" src="./Quiniela Jalisco_files/ionicons.js.descarga"></script>
-    <script src="./Quiniela Jalisco_files/main10.js.descarga"></script>
-<style></style></head>
 
 <body>
     <p id="bolsa"><br><span id="bolsatxt"></span><span id="cantidad" style="color:yellow"></span></p>
